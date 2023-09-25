@@ -1,5 +1,6 @@
 .body {
     margin: 0%;
+    width: 1300px;
 }
 .header {
     margin-left: 20px;
@@ -32,14 +33,14 @@
 }
 
 .blue-box {
-    width: 75vw;
+    width: 975px;
     height: 160px;
     background-color: darkblue;
     position: relative;
 }
 
 .imgcard img {
-    width: 50vw;
+    width: 650px;
     height: 65vh;
     position: absolute;
     top: -350px;
