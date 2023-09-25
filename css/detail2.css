@@ -1,0 +1,48 @@
+.body {
+    margin: 0%;
+}
+.header {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: darkblue;
+    font-size: 13px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav ul{
+    padding: 0%;
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-list li{
+    display: inline-block;
+    font-weight: bolder;
+}
+
+.content-ttl {
+    font-size: 60px;
+    margin-bottom: 0px;
+    line-height: 50px;
+}
+
+.blue-box {
+    width: 75vw;
+    height: 140px;
+    background-color: darkblue;
+    position: relative;
+}
+
+.imgcard img {
+    width: 660px;
+    height: 420px;
+    position: absolute;
+    top: -350px;
+    left: 650px;
+    display: block;
+}
