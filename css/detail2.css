@@ -33,16 +33,15 @@
 
 .blue-box {
     width: 75vw;
-    height: 140px;
+    height: 160px;
     background-color: darkblue;
     position: relative;
 }
 
 .imgcard img {
-    width: 660px;
-    height: 420px;
+    width: 50vw;
+    height: 65vh;
     position: absolute;
     top: -350px;
     left: 650px;
-    display: block;
 }
